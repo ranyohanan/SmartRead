@@ -41,7 +41,7 @@ Follow these steps to set up and run the SmartRead project locally.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone YOUR_GITHUB_REPO_LINK_HERE
+    git clone https://github.com/ranyohanan/SmartRead
     cd smartread
     ```
 
