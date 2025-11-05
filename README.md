@@ -1,0 +1,2 @@
+# SmartRead
+An AI Summarizer!
