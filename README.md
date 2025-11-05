@@ -66,6 +66,6 @@ Follow these steps to set up and run the SmartRead project locally.
 5.  **Access the Application:**
     Open your browser and navigate to: `http://localhost:3000`
 
-## 📂 Project Structure
+## 👤 Author
 
-The project follows a modular structure for clear separation of concerns:
+**Ran Johanan**
